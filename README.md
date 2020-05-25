@@ -2,9 +2,13 @@
 My project layout for the portfolio
 
 Описание созданное к проекту: SuperMart 
+
 Разработчик: Карущенко Руслан 
+
 Tg: @Ruska17
+
 Vk: https://vk.com/krip2
+
 freelancer: https://freelancehunt.com/freelancer/ruska35.html
 
 Верстка главной страници интернет магазина из psd-макета. Верстка разрабатывалась на фреймворке: Bootstrap 4.
@@ -36,12 +40,11 @@ Photoshop
 
 Связь с разаработчиком
 
-Tg:
-@Ruska17
-Vk:
-https://vk.com/krip2
-WhatsApp:
-89189982684
+Tg: @Ruska17
+
+Vk: https://vk.com/krip2
+
+WhatsApp: 89189982684
 
 Буду рад общению!
 
