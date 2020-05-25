@@ -13,6 +13,7 @@ freelancer: https://freelancehunt.com/freelancer/ruska35.html
 
 Верстка главной страници интернет магазина из psd-макета. Верстка разрабатывалась на фреймворке: Bootstrap 4.
 
+
 Стек технологий которые использовались:
 
 - Html5
@@ -23,9 +24,11 @@ freelancer: https://freelancehunt.com/freelancer/ruska35.html
 
 Подробнее: 
 
+
 Html5, CSS3, Bootstrap 4
 
 Вся верстка и одаптив связаный с макетом 
+
 
 js/jQuery
 
@@ -34,9 +37,11 @@ js/jQuery
 Создание таймера обраного отсчёта
 Онимация бургоров меню
 
+
 Photoshop 
 
 Работа с макетом
+
 
 Связь с разаработчиком
 
@@ -45,6 +50,7 @@ Tg: @Ruska17
 Vk: https://vk.com/krip2
 
 WhatsApp: 89189982684
+
 
 Буду рад общению!
 
