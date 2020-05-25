@@ -25,12 +25,12 @@ freelancer: https://freelancehunt.com/freelancer/ruska35.html
 Подробнее: 
 
 
--Html5, CSS3, Bootstrap 4
+- Html5, CSS3, Bootstrap 4
 
 Вся верстка и одаптив связаный с макетом 
 
 
--js/jQuery
+- js/jQuery
 
 Создание всех слайдеров
 Создание всех дроп меню на сайте
@@ -38,7 +38,7 @@ freelancer: https://freelancehunt.com/freelancer/ruska35.html
 Онимация бургоров меню
 
 
--Photoshop 
+- Photoshop 
 
 Работа с макетом
 
