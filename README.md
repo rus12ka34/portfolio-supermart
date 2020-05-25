@@ -20,21 +20,28 @@ freelancer: https://freelancehunt.com/freelancer/ruska35.html
 Подробнее: 
 
 Html5, CSS3, Bootstrap 4
+
 Вся верстка и одаптив связаный с макетом 
 
 js/jQuery
+
 Создание всех слайдеров
 Создание всех дроп меню на сайте
 Создание таймера обраного отсчёта
 Онимация бургоров меню
 
 Photoshop 
+
 Работа с макетом
 
 Связь с разаработчиком
-Tg: @Ruska17
-Vk: https://vk.com/krip2
-WhatsApp: 89189982684
+
+Tg:
+@Ruska17
+Vk:
+https://vk.com/krip2
+WhatsApp:
+89189982684
 
 Буду рад общению!
 
